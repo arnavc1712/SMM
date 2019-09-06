@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>03/09/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Google India" label="Google India" />
+      <node id="Erik Brynjolfsson" label="Erik Brynjolfsson" />
+      <node id="Netflix India" label="Netflix India" />
+      <node id="Sharnita Rao" label="Sharnita Rao" />
+      <node id="kopal sharma" label="kopal sharma" />
+      <node id="Twitter Food" label="Twitter Food" />
+      <node id="Siddharth Kharbanda" label="Siddharth Kharbanda" />
+      <node id="Neil deGrasse Tyson" label="Neil deGrasse Tyson" />
+      <node id="Google AI" label="Google AI" />
+      <node id="Disha Khurana" label="Disha Khurana" />
+      <node id="Shrey Sucklecha" label="Shrey Sucklecha" />
+      <node id="Kubernetes" label="Kubernetes" />
+      <node id="CoinDesk" label="CoinDesk" />
+      <node id="👑 Pump Kings 👑 Telegram Crypto pump Squad" label="👑 Pump Kings 👑 Telegram Crypto pump Squad" />
+      <node id="Kaggle" label="Kaggle" />
+      <node id="Siraj Raval" label="Siraj Raval" />
+      <node id="The Hacker News" label="The Hacker News" />
+      <node id="President Trump" label="President Trump" />
+      <node id="Nithya Thomas" label="Nithya Thomas" />
+      <node id="Mental Floss" label="Mental Floss" />
+      <node id="Melinda Gates" label="Melinda Gates" />
+      <node id="harsh gidwani" label="harsh gidwani" />
+      <node id="Barack Obama" label="Barack Obama" />
+      <node id="Ariana Grande" label="Ariana Grande" />
+      <node id="Aditya Ochani" label="Aditya Ochani" />
+      <node id="Purvang Desai" label="Purvang Desai" />
+      <node id="Tim Cook" label="Tim Cook" />
+      <node id="pallavi jain" label="pallavi jain" />
+      <node id="Lifehacker" label="Lifehacker" />
+      <node id="Rakesh Shah" label="Rakesh Shah" />
+      <node id="Allotropes" label="Allotropes" />
+      <node id="Nihal Panda" label="Nihal Panda" />
+      <node id="Nilanchal Sethi" label="Nilanchal Sethi" />
+      <node id="Shruti Haasan FC:)" label="Shruti Haasan FC:)" />
+      <node id="Divya Jain" label="Divya Jain" />
+      <node id="Rehan Gupta" label="Rehan Gupta" />
+      <node id="The Muse" label="The Muse" />
+      <node id="LeBron James" label="LeBron James" />
+      <node id="Advitthya" label="Advitthya" />
+      <node id="Kabir" label="Kabir" />
+      <node id="Techmeme" label="Techmeme" />
+      <node id="Nikhail Andrade" label="Nikhail Andrade" />
+      <node id="Adam Grant" label="Adam Grant" />
+      <node id="Donald J. Trump" label="Donald J. Trump" />
+      <node id="Joe Beda" label="Joe Beda" />
+      <node id="CoreOS, Inc." label="CoreOS, Inc." />
+      <node id="Tai Lopez" label="Tai Lopez" />
+      <node id="Vijay Menda" label="Vijay Menda" />
+      <node id="Gordon Ramsay" label="Gordon Ramsay" />
+      <node id="Thomson Palamattam" label="Thomson Palamattam" />
+      <node id="Harsh Gidwani" label="Harsh Gidwani" />
+      <node id="Vidhi Agarwal" label="Vidhi Agarwal" />
+      <node id="Microsoft" label="Microsoft" />
+      <node id="crypto army" label="crypto army" />
+      <node id="Shankar jadhav" label="Shankar jadhav" />
+      <node id="Edward Snowden" label="Edward Snowden" />
+      <node id="François Chollet" label="François Chollet" />
+      <node id="Forbes Tech" label="Forbes Tech" />
+      <node id="NASA" label="NASA" />
+      <node id="WIRED" label="WIRED" />
+      <node id="Andrew Ng" label="Andrew Ng" />
+      <node id="Mohit Idler Joshi" label="Mohit Idler Joshi" />
+      <node id="Jeff Dean" label="Jeff Dean" />
+      <node id="Kinna" label="Kinna" />
+      <node id="Aashvi Parikh" label="Aashvi Parikh" />
+      <node id="Amber Dheri" label="Amber Dheri" />
+      <node id="Shantanu Kamath" label="Shantanu Kamath" />
+      <node id="Stack Overflow" label="Stack Overflow" />
+      <node id="prerna dharamdasani" label="prerna dharamdasani" />
+      <node id="Elon Musk" label="Elon Musk" />
+      <node id="GitHub" label="GitHub" />
+      <node id="ANSWIZ" label="ANSWIZ" />
+      <node id="Harman Sahi" label="Harman Sahi" />
+      <node id="Tarun Reddy" label="Tarun Reddy" />
+      <node id="Tanisha*" label="Tanisha*" />
+      <node id="Jaiprakash" label="Jaiprakash" />
+      <node id="Shambhavi Mehrotra" label="Shambhavi Mehrotra" />
+      <node id="NBA" label="NBA" />
+      <node id="Chris Anderson" label="Chris Anderson" />
+      <node id="TechCrunch" label="TechCrunch" />
+      <node id="Conor McGregor" label="Conor McGregor" />
+      <node id="Andrej Karpathy" label="Andrej Karpathy" />
+      <node id="Justin Sun" label="Justin Sun" />
+      <node id="Farzan Kamdin" label="Farzan Kamdin" />
+      <node id="Google" label="Google" />
+      <node id="DeepMind" label="DeepMind" />
+      <node id="SpaceX" label="SpaceX" />
+      <node id="Docker" label="Docker" />
+      <node id="Tesla" label="Tesla" />
+      <node id="Oriol Vinyals" label="Oriol Vinyals" />
+      <node id="Hillary Clinton" label="Hillary Clinton" />
+      <node id="Bella Cannabis" label="Bella Cannabis" />
+      <node id="Fei-Fei Li" label="Fei-Fei Li" />
+      <node id="Google Cloud India" label="Google Cloud India" />
+      <node id="Golu" label="Golu" />
+      <node id="Bill Gates" label="Bill Gates" />
+      <node id="CNN Breaking News" label="CNN Breaking News" />
+      <node id="Kriti Ahuja" label="Kriti Ahuja" />
+      <node id="MarQuis Trill | Marketing • Crypto 🐐" label="MarQuis Trill | Marketing • Crypto 🐐" />
+      <node id="Monica Chakravarthy" label="Monica Chakravarthy" />
+      <node id="arnav" label="arnav" />
+      <node id="Forbes" label="Forbes" />
+      <node id="Coldplay" label="Coldplay" />
+      <node id="harsh gidwani96" label="harsh gidwani96" />
+      <node id="Slash" label="Slash" />
+      <node id="TRON Foundation" label="TRON Foundation" />
+      <node id="The Economist" label="The Economist" />
+      <node id="Soumith Chintala" label="Soumith Chintala" />
+      <node id="PublicPumpDump" label="PublicPumpDump" />
+      <node id="Sanket Galaiya" label="Sanket Galaiya" />
+      <node id="Kelsey Hightower" label="Kelsey Hightower" />
+      <node id="Justin Bieber" label="Justin Bieber" />
+      <node id="Sundar Pichai" label="Sundar Pichai" />
+      <node id="OpenAI" label="OpenAI" />
+      <node id="zikra" label="zikra" />
+      <node id="TIME" label="TIME" />
+      <node id="Stephen Curry" label="Stephen Curry" />
+      <node id="Twitter" label="Twitter" />
+      <node id="Google Students" label="Google Students" />
+      <node id="Harshita Punugoti" label="Harshita Punugoti" />
+      <node id="Aiman" label="Aiman" />
+      <node id="Jeff Atwood" label="Jeff Atwood" />
+      <node id="Matrimony India" label="Matrimony India" />
+      <node id="Deven Shah" label="Deven Shah" />
+      <node id="The New York Times" label="The New York Times" />
+      <node id="Sonali_Larmadio" label="Sonali_Larmadio" />
+      <node id="TED Talks" label="TED Talks" />
+      <node id="John Oliver" label="John Oliver" />
+      <node id="Saloni Acharekar" label="Saloni Acharekar" />
+      <node id="Narendra Modi" label="Narendra Modi" />
+      <node id="Vrushodh" label="Vrushodh" />
+    </nodes>
+    <edges>
+      <edge id="0" source="kopal sharma" target="arnav" />
+      <edge id="1" source="Siddharth Kharbanda" target="arnav" />
+      <edge id="2" source="Disha Khurana" target="arnav" />
+      <edge id="3" source="Shrey Sucklecha" target="arnav" />
+      <edge id="4" source="👑 Pump Kings 👑 Telegram Crypto pump Squad" target="arnav" />
+      <edge id="5" source="Nithya Thomas" target="arnav" />
+      <edge id="6" source="harsh gidwani" target="arnav" />
+      <edge id="7" source="pallavi jain" target="arnav" />
+      <edge id="8" source="Rakesh Shah" target="arnav" />
+      <edge id="9" source="Allotropes" target="arnav" />
+      <edge id="10" source="Nihal Panda" target="arnav" />
+      <edge id="11" source="Nilanchal Sethi" target="arnav" />
+      <edge id="12" source="Shruti Haasan FC:)" target="arnav" />
+      <edge id="13" source="Divya Jain" target="arnav" />
+      <edge id="14" source="Kabir" target="arnav" />
+      <edge id="15" source="Nikhail Andrade" target="arnav" />
+      <edge id="16" source="Vijay Menda" target="arnav" />
+      <edge id="17" source="Thomson Palamattam" target="arnav" />
+      <edge id="18" source="Harsh Gidwani" target="arnav" />
+      <edge id="19" source="Vidhi Agarwal" target="arnav" />
+      <edge id="20" source="crypto army" target="arnav" />
+      <edge id="21" source="Shankar jadhav" target="arnav" />
+      <edge id="22" source="Mohit Idler Joshi" target="arnav" />
+      <edge id="23" source="Shantanu Kamath" target="arnav" />
+      <edge id="24" source="prerna dharamdasani" target="arnav" />
+      <edge id="25" source="ANSWIZ" target="arnav" />
+      <edge id="26" source="Harman Sahi" target="arnav" />
+      <edge id="27" source="Jaiprakash" target="arnav" />
+      <edge id="28" source="Shambhavi Mehrotra" target="arnav" />
+      <edge id="29" source="Bella Cannabis" target="arnav" />
+      <edge id="30" source="Golu" target="arnav" />
+      <edge id="31" source="MarQuis Trill | Marketing • Crypto 🐐" target="arnav" />
+      <edge id="32" source="Monica Chakravarthy" target="arnav" />
+      <edge id="33" source="arnav" target="Google India" />
+      <edge id="34" source="arnav" target="Erik Brynjolfsson" />
+      <edge id="35" source="arnav" target="Netflix India" />
+      <edge id="36" source="arnav" target="Sharnita Rao" />
+      <edge id="37" source="arnav" target="Twitter Food" />
+      <edge id="38" source="arnav" target="Neil deGrasse Tyson" />
+      <edge id="39" source="arnav" target="Google AI" />
+      <edge id="40" source="arnav" target="Kubernetes" />
+      <edge id="41" source="arnav" target="CoinDesk" />
+      <edge id="42" source="arnav" target="Andrew Ng" />
+      <edge id="43" source="arnav" target="Kaggle" />
+      <edge id="44" source="arnav" target="Siraj Raval" />
+      <edge id="45" source="arnav" target="The Hacker News" />
+      <edge id="46" source="arnav" target="President Trump" />
+      <edge id="47" source="arnav" target="Nithya Thomas" />
+      <edge id="48" source="arnav" target="Mental Floss" />
+      <edge id="49" source="arnav" target="Melinda Gates" />
+      <edge id="50" source="arnav" target="Barack Obama" />
+      <edge id="51" source="arnav" target="Ariana Grande" />
+      <edge id="52" source="arnav" target="Aditya Ochani" />
+      <edge id="53" source="arnav" target="Purvang Desai" />
+      <edge id="54" source="arnav" target="Tim Cook" />
+      <edge id="55" source="arnav" target="pallavi jain" />
+      <edge id="56" source="arnav" target="Lifehacker" />
+      <edge id="57" source="arnav" target="Oriol Vinyals" />
+      <edge id="58" source="arnav" target="Stack Overflow" />
+      <edge id="59" source="arnav" target="Farzan Kamdin" />
+      <edge id="60" source="arnav" target="Rehan Gupta" />
+      <edge id="61" source="arnav" target="Hillary Clinton" />
+      <edge id="62" source="arnav" target="LeBron James" />
+      <edge id="63" source="arnav" target="Advitthya" />
+      <edge id="64" source="arnav" target="Kabir" />
+      <edge id="65" source="arnav" target="Techmeme" />
+      <edge id="66" source="arnav" target="Fei-Fei Li" />
+      <edge id="67" source="arnav" target="Adam Grant" />
+      <edge id="68" source="arnav" target="Donald J. Trump" />
+      <edge id="69" source="arnav" target="Joe Beda" />
+      <edge id="70" source="arnav" target="CoreOS, Inc." />
+      <edge id="71" source="arnav" target="Tai Lopez" />
+      <edge id="72" source="arnav" target="Gordon Ramsay" />
+      <edge id="73" source="arnav" target="Microsoft" />
+      <edge id="74" source="arnav" target="CNN Breaking News" />
+      <edge id="75" source="arnav" target="Edward Snowden" />
+      <edge id="76" source="arnav" target="François Chollet" />
+      <edge id="77" source="arnav" target="Forbes Tech" />
+      <edge id="78" source="arnav" target="NASA" />
+      <edge id="79" source="arnav" target="WIRED" />
+      <edge id="80" source="arnav" target="TIME" />
+      <edge id="81" source="arnav" target="Mohit Idler Joshi" />
+      <edge id="82" source="arnav" target="Jeff Dean" />
+      <edge id="83" source="arnav" target="Kinna" />
+      <edge id="84" source="arnav" target="Aashvi Parikh" />
+      <edge id="85" source="arnav" target="Amber Dheri" />
+      <edge id="86" source="arnav" target="Shantanu Kamath" />
+      <edge id="87" source="arnav" target="prerna dharamdasani" />
+      <edge id="88" source="arnav" target="Elon Musk" />
+      <edge id="89" source="arnav" target="GitHub" />
+      <edge id="90" source="arnav" target="Harman Sahi" />
+      <edge id="91" source="arnav" target="Tarun Reddy" />
+      <edge id="92" source="arnav" target="Tanisha*" />
+      <edge id="93" source="arnav" target="Nihal Panda" />
+      <edge id="94" source="arnav" target="Shambhavi Mehrotra" />
+      <edge id="95" source="arnav" target="NBA" />
+      <edge id="96" source="arnav" target="Chris Anderson" />
+      <edge id="97" source="arnav" target="TechCrunch" />
+      <edge id="98" source="arnav" target="Conor McGregor" />
+      <edge id="99" source="arnav" target="Kriti Ahuja" />
+      <edge id="100" source="arnav" target="Justin Sun" />
+      <edge id="101" source="arnav" target="DeepMind" />
+      <edge id="102" source="arnav" target="SpaceX" />
+      <edge id="103" source="arnav" target="Docker" />
+      <edge id="104" source="arnav" target="Tesla" />
+      <edge id="105" source="arnav" target="Twitter" />
+      <edge id="106" source="arnav" target="The Muse" />
+      <edge id="107" source="arnav" target="Nikhail Andrade" />
+      <edge id="108" source="arnav" target="Google Cloud India" />
+      <edge id="109" source="arnav" target="Bill Gates" />
+      <edge id="110" source="arnav" target="Andrej Karpathy" />
+      <edge id="111" source="arnav" target="Forbes" />
+      <edge id="112" source="arnav" target="Coldplay" />
+      <edge id="113" source="arnav" target="Slash" />
+      <edge id="114" source="arnav" target="TRON Foundation" />
+      <edge id="115" source="arnav" target="The Economist" />
+      <edge id="116" source="arnav" target="Soumith Chintala" />
+      <edge id="117" source="arnav" target="Sanket Galaiya" />
+      <edge id="118" source="arnav" target="Kelsey Hightower" />
+      <edge id="119" source="arnav" target="Justin Bieber" />
+      <edge id="120" source="arnav" target="Sundar Pichai" />
+      <edge id="121" source="arnav" target="OpenAI" />
+      <edge id="122" source="arnav" target="zikra" />
+      <edge id="123" source="arnav" target="Stephen Curry" />
+      <edge id="124" source="arnav" target="Google Students" />
+      <edge id="125" source="arnav" target="Google" />
+      <edge id="126" source="arnav" target="Jeff Atwood" />
+      <edge id="127" source="arnav" target="The New York Times" />
+      <edge id="128" source="arnav" target="TED Talks" />
+      <edge id="129" source="arnav" target="John Oliver" />
+      <edge id="130" source="arnav" target="Saloni Acharekar" />
+      <edge id="131" source="arnav" target="Vrushodh" />
+      <edge id="132" source="arnav" target="Narendra Modi" />
+      <edge id="133" source="harsh gidwani96" target="arnav" />
+      <edge id="134" source="PublicPumpDump" target="arnav" />
+      <edge id="135" source="zikra" target="arnav" />
+      <edge id="136" source="Harshita Punugoti" target="arnav" />
+      <edge id="137" source="Aiman" target="arnav" />
+      <edge id="138" source="Matrimony India" target="arnav" />
+      <edge id="139" source="Deven Shah" target="arnav" />
+      <edge id="140" source="Sonali_Larmadio" target="arnav" />
+      <edge id="141" source="Saloni Acharekar" target="arnav" />
+      <edge id="142" source="Vrushodh" target="arnav" />
+    </edges>
+  </graph>
+</gexf>
